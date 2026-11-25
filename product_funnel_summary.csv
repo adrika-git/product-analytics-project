@@ -1,0 +1,6 @@
+Stage,Sessions,Conversion Rate,Stage Order
+session_start,5000,100.0,1
+view_item,3926,78.52,2
+add_to_cart,1537,39.1492613346918,3
+begin_checkout,952,61.93884189980482,4
+purchase,541,56.82773109243697,5
